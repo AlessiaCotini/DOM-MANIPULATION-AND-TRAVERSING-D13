@@ -6,8 +6,8 @@ const formSubmit = function (e) {
   containerBand.innerHTML += `
         <article class="band-class">
             <p>${bandName}</p>
-            <button onclick="done(event)">🤘🏽 Done!!!</button>
-            <button onclick="deleteRow(event)">🗑️ Delete!</button>
+            <button onclick="done(event)"class="scndButton">LET'S GO</button>
+            <button onclick="deleteRow(event)" class="scndButton">MAYBE SOMEDAY</button>
         </article>`;
   form.reset();
 };
