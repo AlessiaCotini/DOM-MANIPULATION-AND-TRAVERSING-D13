@@ -1,0 +1,45 @@
+body{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(224, 218, 212);
+    padding: 5%;
+}
+header{
+    background-color: rgb(243, 238, 235);
+    border-width: 1%;
+    text-align: left;
+}
+#headerDiv{
+    color: rgb(3, 3, 3);
+    font-weight: 250;
+    padding:10%;
+}
+#inputId{
+   background-color: rgb(243, 238, 235);
+    border-width: 1%;
+    text-align:center;
+}
+#buttonId{
+    color: rgb(214, 204, 196);
+    border-color: whitesmoke;
+   background-color: rgb(9, 9, 9);
+}
+footer{
+   background-color: rgb(9, 9, 9);
+    border-width: 1%;
+}
+footer h5{
+    color: whitesmoke;
+    text-align: left;
+    padding: 8%;
+}
+#h2Id{
+    color: rgb(10, 10, 10);
+}
+#mainId{
+    background-color: rgb(243, 238, 235);
+    border-width: 1%;
+    text-align: left;
+    padding: 10%;
+    margin-top: 15px;
+}
