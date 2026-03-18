@@ -43,3 +43,12 @@ footer h5{
     padding: 10%;
     margin-top: 15px;
 }
+.band-class{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(243, 238, 235);
+    border-width: 1%;
+    text-align: center; 
+    margin: 2px;
+    font-weight: 500;
+
+}
